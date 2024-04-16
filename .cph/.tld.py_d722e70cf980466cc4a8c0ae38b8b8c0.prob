@@ -1,0 +1,1 @@
+{"name":"Local: tld","url":"/Users/dhirajmarathe/Desktop/iit kgp /tld.py","tests":[{"id":1706963217697,"input":"translate.google.com","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/iit kgp /tld.py","group":"local","local":true}
